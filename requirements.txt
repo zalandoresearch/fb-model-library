@@ -1,0 +1,9 @@
+torch
+pandas
+scikit-image
+tqdm
+matplotlib
+numpy
+pillow
+torchvision
+git+https://github.com/blythed/torchabc.git
